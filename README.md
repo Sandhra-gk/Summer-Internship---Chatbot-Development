@@ -1,0 +1,3 @@
+# Summer-Internship---Chatbot-Development
+
+The summer internship project at Espina IT Solutions resulted in the successful development of a chatbot to assist passengers at Hamad International Airport. The use of Node.js and TensorFlow, along with various supporting modules, allowed for efficient text and voice-based interactions. The integration with Chatwoot and Webex ensured a smooth transition between automated and human-assisted communication. The project provided valuable experience in working with cutting-edge technologies and solving real-world challenges in the field of natural language processing and customer service.
